@@ -2,6 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: #d8dee9;
+  overflow: hidden;
 }
 .news__ttl {
   background-color: #2e3440;
