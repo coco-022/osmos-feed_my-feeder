@@ -1,4 +1,5 @@
 cacheUrl: https://coco-022.github.io/osmos-feed_test/cache.json
 sources:
   - href: https://kabigon-unite.com/feed
+  - href: https://pokemon.game-chan.net/feed
   - href: https://www.freecodecamp.org/news/rss/
