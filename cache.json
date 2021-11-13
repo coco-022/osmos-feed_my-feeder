@@ -98,6 +98,12 @@
       ]
     },
     {
+      "title": "ポケユナ 攻略まとめちゃん",
+      "feedUrl": "https://pokemon.game-chan.net/feed",
+      "siteUrl": "https://pokemon.game-chan.net",
+      "articles": []
+    },
+    {
       "title": "freeCodeCamp.org",
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news",
