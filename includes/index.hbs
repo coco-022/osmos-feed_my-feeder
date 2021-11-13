@@ -17,14 +17,10 @@
       <div>
         <section>
           <div>{{isoPublishDate}}</div>
-
           {{#each articles}}
           <article>
             <div><a href="{{link}}">{{title}}</a></div>
-            <div>
-              <span>Source: <a href="{{source.siteUrl}}">{{source.title}}</a></span>
-            </div>
-            <p>{{description}}</p>
+            <div>Source: <a href="{{source.siteUrl}}">{{source.title}}</a></div>
           </article>
           {{/each}}
         </section>
