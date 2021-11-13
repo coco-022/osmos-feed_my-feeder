@@ -11,23 +11,27 @@
   </head>
 
   <body>
-    <div>
-      {{#each dates}}
-      <!-- 日付データの数だけ繰り返し -->
-      <div>
-        <section>
-          <div>{{isoPublishDate}}</div>
+    <!-- =============================================
+        ニュースフィーダー部分
+    ============================================= -->
+    <div class="news__unit">
+      <div class="news__unit_inner">
+        {{#each dates}}
+        <div class="news__unit_item">
+          <div class="news__unit_item_date">{{isoPublishDate}}</div>
           {{#each articles}}
-          <article>
-            <div><a href="{{link}}">{{title}}</a></div>
-            <div>Source: <a href="{{source.siteUrl}}">{{source.title}}</a></div>
-          </article>
+          <div class="news__unit_item_body">
+            <div class="news__unit_item_body_ttl"><a href="{{link}}">{{title}}</a></div>
+            <div class="news__unit_item_body_src">Source: <a href="{{source.siteUrl}}">{{source.title}}</a></div>
+          </div>
           {{/each}}
-        </section>
+        </div>
+        {{/each}}
       </div>
-      {{/each}}
-      <!-- 日付データの数だけ繰り返し -->
     </div>
+    <!-- =============================================
+        ニュースフィーダー部分
+    ============================================= -->
     <script src="index.js"></script>
   </body>
 </html>
