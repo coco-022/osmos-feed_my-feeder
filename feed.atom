@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-13T04:41:27.019Z</updated>
+    <updated>2021-11-13T07:32:53.861Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_test/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【話題】ユナイトスレ、ついに●●自慢パレスが出てくるｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=5896</id>
+        <link href="https://pokemon.gamerstand.net/5896"/>
+        <updated>2021-11-13T07:23:37.000Z</updated>
+        <summary type="html"><![CDATA[767: 名無しさん 2021/11/13(土) 13:10:38.10 俺がパ ...
+The post 【話題】ユナイトスレ、ついに●●自慢パレスが出てくるｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>sinmura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【攻略】マスターにもこういうやつ多いの絶望しかないｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=5894</id>
+        <link href="https://pokemon.gamerstand.net/5894"/>
+        <updated>2021-11-13T06:53:38.000Z</updated>
+        <summary type="html"><![CDATA[756: 名無しさん 2021/11/13(土) 13:06:27.84 集団戦 ...
+The post 【攻略】マスターにもこういうやつ多いの絶望しかないｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>sinmura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【疑問】未だに亀崇拝派なんだけどおもったよりガッツリナーフされてるの？]]></title>
+        <id>https://pokemon.gamerstand.net/?p=5891</id>
+        <link href="https://pokemon.gamerstand.net/5891"/>
+        <updated>2021-11-13T06:23:59.000Z</updated>
+        <summary type="html"><![CDATA[400: 名無しさん 2021/11/13(土) 10:58:01.26 亀の経 ...
+The post 【疑問】未だに亀崇拝派なんだけどおもったよりガッツリナーフされてるの？ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>sinmura</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【攻略】原点回帰でこうしたらめっちゃ勝てるようになったわｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=5889</id>
+        <link href="https://pokemon.gamerstand.net/5889"/>
+        <updated>2021-11-13T05:53:54.000Z</updated>
+        <summary type="html"><![CDATA[344: 名無しさん 2021/11/13(土) 10:30:55.20 原点回 ...
+The post 【攻略】原点回帰でこうしたらめっちゃ勝てるようになったわｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>sinmura</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポケモンユナイト】マクロとミクロって簡単に言うとどういうこと？]]></title>
         <id>http://pokemonunite.blog.jp/archives/11824611.html</id>
