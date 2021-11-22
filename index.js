@@ -1,6 +1,6 @@
 var mySwiper = new Swiper(".swiper-container", {
   height: 400,
-  slidesPerView: 1,
+  slidesPerView: 0.8,
   spaceBetween: 25,
   centeredSlides: true,
   touchAngle: 45,
@@ -11,7 +11,7 @@ var mySwiper = new Swiper(".swiper-container", {
   breakpoints: {
     // when window width is <= 640px
     900: {
-      slidesPerView: 1,
+      slidesPerView: 0.8,
       spaceBetween: 25,
     },
   },
