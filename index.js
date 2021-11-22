@@ -4,6 +4,10 @@ var mySwiper = new Swiper(".swiper-container", {
   spaceBetween: 15,
   centeredSlides: true,
   touchAngle: 45,
+  navigation: {
+    nextEl: '.swiper-button-next',
+    prevEl: '.swiper-button-prev',
+  },
   breakpoints: {
     // when window width is <= 640px
     900: {
