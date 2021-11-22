@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #d8dee9;
+  background-color: #fff;
   overflow: hidden;
 }
 .news__ttl {
@@ -62,4 +62,10 @@ a:visited {
 ::-webkit-scrollbar-thumb {
   background: #4c566a;
   border-radius: 5px;
+}
+/* =============================================
+　スワイパー
+============================================= */
+.swiper-button-next, .swiper-button-prev{
+ color: #4C566A important!;
 }
