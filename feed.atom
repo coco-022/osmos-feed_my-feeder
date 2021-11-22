@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T04:45:40.252Z</updated>
+    <updated>2021-11-22T04:54:23.202Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_test/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_test/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【議論】勝率5割のヤバい奴でも●●戦やればエリート3からマスターにいけるんだなｗｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6336</id>
+        <link href="https://pokemon.gamerstand.net/6336"/>
+        <updated>2021-11-22T04:52:35.000Z</updated>
+        <summary type="html"><![CDATA[372: 名無しさん 2021/11/22(月) 13:01:15.72 勝率5 ...
+The post 【議論】勝率5割のヤバい奴でも●●戦やればエリート3からマスターにいけるんだなｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>ogyaaa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【議論】かげぬい使うジュナイパー全部通報するわｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6335</id>
+        <link href="https://pokemon.gamerstand.net/6335"/>
+        <updated>2021-11-22T04:48:17.000Z</updated>
+        <summary type="html"><![CDATA[340: 名無しさん 2021/11/22(月) 12:51:42.86 かげぬ ...
+The post 【議論】かげぬい使うジュナイパー全部通報するわｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>ogyaaa</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ネタ】ガブは今普通に有りだしめちゃ強いわけでもないからネタにしづらくて空気になりつつある]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6334</id>
+        <link href="https://pokemon.gamerstand.net/6334"/>
+        <updated>2021-11-22T04:45:31.000Z</updated>
+        <summary type="html"><![CDATA[19: 名無しさん 2021/11/22(月) 10:56:55.74 タイマン ...
+The post 【ネタ】ガブは今普通に有りだしめちゃ強いわけでもないからネタにしづらくて空気になりつつある first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>ogyaaa</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【ポケモンユナイト】今プクリン強くね？]]></title>
         <id>http://pokemonunite.blog.jp/archives/11938851.html</id>
