@@ -2,155 +2,220 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coco-022.github.io/osmos-feed_test/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-12-04T00:49:33.314Z</updated>
+    <updated>2021-12-05T00:53:54.040Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="https://coco-022.github.io/osmos-feed_test/index.html"/>
     <link rel="self" href="https://coco-022.github.io/osmos-feed_test/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】真面目な話イワパレスってサンダー戦い何すればいいんだ？]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12190222.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12190222.html"/>
-        <updated>2021-12-03T16:00:52.000Z</updated>
+        <title type="html"><![CDATA[【ポケモンユナイト】1蜂は下3人以外選択肢ないのになぜ地雷中央は上がるの？]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220807.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220807.html"/>
+        <updated>2021-12-04T16:00:03.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】ゴルサポLv30にしていい？ この先またいらなくなるかな？]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189911.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189911.html"/>
-        <updated>2021-12-03T15:30:52.000Z</updated>
+        <title type="html"><![CDATA[【ポケモンユナイト】まともなタンクがいるならゲコよりエスバの方が強いと思うわ]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220775.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220775.html"/>
+        <updated>2021-12-04T15:30:47.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】プクリンでおたバリ外す択あるんか？]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189895.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189895.html"/>
-        <updated>2021-12-03T15:10:15.000Z</updated>
+        <title type="html"><![CDATA[【ポケモンユナイト】ゲッコウガは頼むから絶対に開幕「みがわり」をピックしてみがわりを使って中央の壁を突破してくれ]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12234602.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12234602.html"/>
+        <updated>2021-12-04T15:10:37.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】これが攻撃的プクリンだわ]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189863.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189863.html"/>
-        <updated>2021-12-03T15:00:37.000Z</updated>
+        <title type="html"><![CDATA[【ポケモンユナイト】この状況で味方がサンダーラッシュかけちゃったときってどうすりゃええの?]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220770.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220770.html"/>
+        <updated>2021-12-04T15:00:56.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【質問】初期キャラと解放おすすめキャラ教えてくれｗｗｗｗｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6943</id>
-        <link href="https://pokemon.gamerstand.net/6943"/>
-        <updated>2021-12-03T14:32:58.000Z</updated>
-        <summary type="html"><![CDATA[891: 名無しさん 2021/12/03(金) 22:47:09.91 持 ...
-The post 【質問】初期キャラと解放おすすめキャラ教えてくれｗｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <title type="html"><![CDATA[【朗報】ゼラオラのワイボってタイミングよくコレをすれば逃げられるんだなｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6998</id>
+        <link href="https://pokemon.gamerstand.net/6998"/>
+        <updated>2021-12-04T14:15:05.000Z</updated>
+        <summary type="html"><![CDATA[639: 名無しさん 2021/12/04(土) 21:53:14.96 ゼラオ ...
+The post 【朗報】ゼラオラのワイボってタイミングよくコレをすれば逃げられるんだなｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
         <author>
             <name>siki358</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【朗報】カイリキーいける気がしてきたｗｗｗｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6940</id>
-        <link href="https://pokemon.gamerstand.net/6940"/>
-        <updated>2021-12-03T14:15:05.000Z</updated>
-        <summary type="html"><![CDATA[814: 名無しさん 2021/12/03(金) 21:37:37.53 カイリ ...
-The post 【朗報】カイリキーいける気がしてきたｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <title type="html"><![CDATA[【質問】すまん、パレスがリスに勝ってるとこある？]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6996</id>
+        <link href="https://pokemon.gamerstand.net/6996"/>
+        <updated>2021-12-04T14:02:08.000Z</updated>
+        <summary type="html"><![CDATA[427: 名無しさん 2021/12/04(土) 20:18:52.23 ゴール ...
+The post 【質問】すまん、パレスがリスに勝ってるとこある？ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
         <author>
             <name>siki358</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】しんそくルカリオの立ち回り教えてくれ]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189843.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189843.html"/>
-        <updated>2021-12-03T14:00:26.000Z</updated>
+        <title type="html"><![CDATA[【ポケモンユナイト】大優勢なのに敵2落ちでユナイトみんな温存できてるのにサンダー削り出して敵にスティールされて負けるの頭おかしいでしょ…]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220739.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220739.html"/>
+        <updated>2021-12-04T14:00:57.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【悲報】さっきめっちゃ指示してくるゲッコウガとあたったわｗｗｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6938</id>
-        <link href="https://pokemon.gamerstand.net/6938"/>
-        <updated>2021-12-03T13:02:48.000Z</updated>
-        <summary type="html"><![CDATA[641: 名無しさん 2021/12/03(金) 20:02:56.82 さっき ...
-The post 【悲報】さっきめっちゃ指示してくるゲッコウガとあたったわｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <title type="html"><![CDATA[【質問】ルカリオって大幅ナーフされたっけ？]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6994</id>
+        <link href="https://pokemon.gamerstand.net/6994"/>
+        <updated>2021-12-04T13:20:05.000Z</updated>
+        <summary type="html"><![CDATA[334: 名無しさん 2021/12/04(土) 19:57:26.56 ルカリ ...
+The post 【質問】ルカリオって大幅ナーフされたっけ？ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
         <author>
             <name>siki358</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】2亀ロコンって何ぞ？]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189833.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189833.html"/>
-        <updated>2021-12-03T13:00:06.000Z</updated>
+        <title type="html"><![CDATA[【画像】これ、ゲコとアブソルのがやばくねーかｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6991</id>
+        <link href="https://pokemon.gamerstand.net/6991"/>
+        <updated>2021-12-04T13:00:36.000Z</updated>
+        <summary type="html"><![CDATA[209: 名無しさん 2021/12/04(土) 19:37:45.82 マンム ...
+The post 【画像】これ、ゲコとアブソルのがやばくねーかｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>siki358</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンユナイト】初めてルカリオ触るんだけどもちものは何がオススメですかね？]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220709.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220709.html"/>
+        <updated>2021-12-04T13:00:24.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【悲報】今日10回くらいリザードン見てるんだけどまたYouTubeのアホが流行らせた？]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6935</id>
-        <link href="https://pokemon.gamerstand.net/6935"/>
-        <updated>2021-12-03T12:42:00.000Z</updated>
-        <summary type="html"><![CDATA[608: 名無しさん 2021/12/03(金) 19:53:21.91 今日1 ...
-The post 【悲報】今日10回くらいリザードン見てるんだけどまたYouTubeのアホが流行らせた？ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <title type="html"><![CDATA[【画像】マスター帯ランクマッチこんな感じｗｗｗｗｗｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6989</id>
+        <link href="https://pokemon.gamerstand.net/6989"/>
+        <updated>2021-12-04T12:42:55.000Z</updated>
+        <summary type="html"><![CDATA[マスター帯ランクマッチ #ポケモンユナイト#ポケモンイラスト pic.twitt ...
+The post 【画像】マスター帯ランクマッチこんな感じｗｗｗｗｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
         <author>
             <name>siki358</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【悲報】ランクマでこんな事するヤツｗｗｗｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6933</id>
-        <link href="https://pokemon.gamerstand.net/6933"/>
-        <updated>2021-12-03T12:20:02.000Z</updated>
-        <summary type="html"><![CDATA[許せねえ#ポケモンユナイト #NintendoSwitch pic.twitte ...
-The post 【悲報】ランクマでこんな事するヤツｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
-        <author>
-            <name>siki358</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】中央ゲコ使うとダメ5万前後で4、5キルしか出来ないんだがみんなどうやって火力出してるんだ]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189783.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189783.html"/>
-        <updated>2021-12-03T12:00:40.000Z</updated>
+        <title type="html"><![CDATA[【ポケモンユナイト】味方のモチベを上げ続けるのがこのゲームの勝ち方]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220588.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220588.html"/>
+        <updated>2021-12-04T12:00:01.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【不満】〇〇されるとめっちゃ萎えるからやめてくれ！！！]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6931</id>
-        <link href="https://pokemon.gamerstand.net/6931"/>
-        <updated>2021-12-03T12:00:13.000Z</updated>
-        <summary type="html"><![CDATA[641: 名無しさん 2021/12/03(金) 20:02:56.82 さっき ...
-The post 【不満】〇〇されるとめっちゃ萎えるからやめてくれ！！！ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <title type="html"><![CDATA[【ネタバレ注意】「Pokémon UNITE Winter Tournament」Aブロックの結果は！？]]></title>
+        <id>https://kabigon-unite.com/?p=15190</id>
+        <link href="https://kabigon-unite.com/archives/15190?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2583%258d%25e3%2582%25bf%25e3%2583%2590%25e3%2583%25ac%25e6%25b3%25a8%25e6%2584%258f%25e3%2580%2591%25e3%2580%258cpokemon-unite-winter-tournament%25e3%2580%258da%25e3%2583%2596%25e3%2583%25ad%25e3%2583%2583%25e3%2582%25af%25e3%2581%25ae%25e7%25b5%2590%25e6%259e%259c%25e3%2581%25af"/>
+        <updated>2021-12-04T11:55:06.000Z</updated>
+        <summary type="html"><![CDATA[おぶやんvsすぱせる
+>876
+>876
+>925
+The post 【ネタバレ注意】「Pokémon UNITE Winter Tournament」Aブロックの結果は！？ first appeared on カビゴン速報.]]></summary>
+        <author>
+            <name>kabigon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【指摘】結局このキャラゲーでワロタｗｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6983</id>
+        <link href="https://pokemon.gamerstand.net/6983"/>
+        <updated>2021-12-04T11:07:39.000Z</updated>
+        <summary type="html"><![CDATA[822: 名無しさん 2021/12/04(土) 18:19:40.31 なぜに ...
+The post 【指摘】結局このキャラゲーでワロタｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
         <author>
             <name>maroleena</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【驚愕】ロトムも亀もサンダーも全部取られて相手ゴール一個しか割れてなかったのになぜか●●点差で勝ててワロタｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6925</id>
-        <link href="https://pokemon.gamerstand.net/6925"/>
-        <updated>2021-12-03T11:18:09.000Z</updated>
-        <summary type="html"><![CDATA[875: 名無しさん 2021/12/03(金) 15:43:20.30 ロトム ...
-The post 【驚愕】ロトムも亀もサンダーも全部取られて相手ゴール一個しか割れてなかったのになぜか●●点差で勝ててワロタｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <title type="html"><![CDATA[【ポケモンユナイト】ルカリオって壁役になるの？]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220596.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220596.html"/>
+        <updated>2021-12-04T11:00:19.000Z</updated>
+        <author>
+            <name>pokemonuni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【議論】これはエイパム狩るのが遅いレーンの人が悪いだろｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6981</id>
+        <link href="https://pokemon.gamerstand.net/6981"/>
+        <updated>2021-12-04T10:41:58.000Z</updated>
+        <summary type="html"><![CDATA[826: 名無しさん 2021/12/04(土) 18:20:10.85 ゲコや ...
+The post 【議論】これはエイパム狩るのが遅いレーンの人が悪いだろｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
         <author>
             <name>maroleena</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】草原jgで最初アーリーガンクする時ってヨーテリー→バッフロン→ルンパの順で狩ったらいいの？]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189823.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189823.html"/>
-        <updated>2021-12-03T11:00:29.000Z</updated>
+        <title type="html"><![CDATA[【驚愕】●●ってクッソラグいってマジ？ｗｗｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6979</id>
+        <link href="https://pokemon.gamerstand.net/6979"/>
+        <updated>2021-12-04T10:05:36.000Z</updated>
+        <summary type="html"><![CDATA[649: 名無しさん 2021/12/04(土) 17:35:29.29 そりゃ ...
+The post 【驚愕】●●ってクッソラグいってマジ？ｗｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>maroleena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンユナイト】即ゼラオラで中央宣言する人って、そのせいでレーンがタンクや遠隔アタッカーだけとかになる可能性とか考えないの？]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220968.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220968.html"/>
+        <updated>2021-12-04T10:00:36.000Z</updated>
+        <author>
+            <name>pokemonuni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【驚愕】このポケモンってうまい人使うとほんと強いよなぁｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6976</id>
+        <link href="https://pokemon.gamerstand.net/6976"/>
+        <updated>2021-12-04T09:30:48.000Z</updated>
+        <summary type="html"><![CDATA[321: 名無しさん 2021/12/04(土) 16:36:20.25 やっぱ ...
+The post 【驚愕】このポケモンってうまい人使うとほんと強いよなぁｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>maroleena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【悲報】大会でも…やっぱこのポケモン弱いじゃんｗｗｗｗｗｗｗ]]></title>
+        <id>https://pokemon.gamerstand.net/?p=6974</id>
+        <link href="https://pokemon.gamerstand.net/6974"/>
+        <updated>2021-12-04T09:00:52.000Z</updated>
+        <summary type="html"><![CDATA[292: 名無しさん 2021/12/04(土) 16:31:16.66 ジュナ ...
+The post 【悲報】大会でも…やっぱこのポケモン弱いじゃんｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
+        <author>
+            <name>maroleena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ポケモンユナイト】ゼラオラ最強ユナイトをサンダー戦前に吐いちゃう人はどーゆー意図なんやろ？]]></title>
+        <id>http://pokemonunite.blog.jp/archives/12220476.html</id>
+        <link href="http://pokemonunite.blog.jp/archives/12220476.html"/>
+        <updated>2021-12-04T09:00:44.000Z</updated>
         <author>
             <name>pokemonuni</name>
         </author>
@@ -183,57 +248,6 @@ The post 【驚愕】ロトムも亀もサンダーも全部取られて相手�
 The post 【ポケユナ】初心者だからピックの時点で戦犯ポケがどいつらか分からない→戦犯ピックの例 first appeared on カビゴン速報.]]></summary>
         <author>
             <name>kabigon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】今の義務ポケモンなに？]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12190233.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12190233.html"/>
-        <updated>2021-12-03T10:00:45.000Z</updated>
-        <author>
-            <name>pokemonuni</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【指摘】●●してるヤツの方が楽しそうｗｗｗｗｗｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6926</id>
-        <link href="https://pokemon.gamerstand.net/6926"/>
-        <updated>2021-12-03T10:00:37.000Z</updated>
-        <summary type="html"><![CDATA[792: 名無しさん 2021/12/03(金) 15:21:15.77 サナ使 ...
-The post 【指摘】●●してるヤツの方が楽しそうｗｗｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
-        <author>
-            <name>maroleena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【要望】ゲッコウガは頼むから●●してくれｗｗｗｗｗｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6923</id>
-        <link href="https://pokemon.gamerstand.net/6923"/>
-        <updated>2021-12-03T09:30:22.000Z</updated>
-        <summary type="html"><![CDATA[733: 名無しさん 2021/12/03(金) 15:03:48.22 ゲッコ ...
-The post 【要望】ゲッコウガは頼むから●●してくれｗｗｗｗｗｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
-        <author>
-            <name>maroleena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【議論】ゲコでサンダー戦レベル●●はちょっとｗｗｗｗｗ]]></title>
-        <id>https://pokemon.gamerstand.net/?p=6917</id>
-        <link href="https://pokemon.gamerstand.net/6917"/>
-        <updated>2021-12-03T09:00:23.000Z</updated>
-        <summary type="html"><![CDATA[636: 名無しさん 2021/12/03(金) 14:30:28.67 俺がゲ ...
-The post 【議論】ゲコでサンダー戦レベル●●はちょっとｗｗｗｗｗ first appeared on ポケモンユナイト攻略まとめ隊.]]></summary>
-        <author>
-            <name>maroleena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケモンユナイト】放置が通報でとおったらレートさがらないようにしろよ]]></title>
-        <id>http://pokemonunite.blog.jp/archives/12189566.html</id>
-        <link href="http://pokemonunite.blog.jp/archives/12189566.html"/>
-        <updated>2021-12-03T09:00:06.000Z</updated>
-        <author>
-            <name>pokemonuni</name>
         </author>
     </entry>
     <entry>
@@ -435,26 +449,6 @@ The post 【ポケユナ】このゲームが味方運ゲーだと信じてる�
 539: 名無しのポケユナ民 2021/11/29(月) 12:42:32.19
 >531
 The post 【ポケユナ】このゲームフルパじゃない限り結局カメ重視でよくねえか first appeared on カビゴン速報.]]></summary>
-        <author>
-            <name>kabigon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【ポケユナ】エリート2を3週間やってるんだけど原因なに？ バトル回数は500]]></title>
-        <id>https://kabigon-unite.com/?p=14441</id>
-        <link href="https://kabigon-unite.com/archives/14441?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=%25e3%2580%2590%25e3%2583%259d%25e3%2582%25b1%25e3%2583%25a6%25e3%2583%258a%25e3%2580%2591%25e3%2582%25a8%25e3%2583%25aa%25e3%2583%25bc%25e3%2583%25882%25e3%2582%25923%25e9%2580%25b1%25e9%2596%2593%25e3%2582%2584%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%258b%25e3%2582%2593%25e3%2581%25a0%25e3%2581%2591%25e3%2581%25a9%25e5%258e%259f"/>
-        <updated>2021-11-29T08:30:39.000Z</updated>
-        <summary type="html"><![CDATA[エリート2を3週間やってるんだけど原因なに？
-18: 名無しのポケユナ民 2021/11/29(月) 08:33:23.35
->14
-19: 名無しのポケユナ民 2021/11/29(月) 08:33:38.10
->14
-21: 名無しのポケユナ民 2021/11/29(月) 08:34:52.57
->14
-34: 名無しのポケユナ民 2021/11/29(月) 08:48:01.73
->14
-15: 名無しのポケユナ民 2021/11/29(月) 08:31:20.44
-The post 【ポケユナ】エリート2を3週間やってるんだけど原因なに？ バトル回数は500 first appeared on カビゴン速報.]]></summary>
         <author>
             <name>kabigon</name>
         </author>
