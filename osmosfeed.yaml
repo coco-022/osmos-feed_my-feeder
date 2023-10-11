@@ -1,6 +1,4 @@
 cacheUrl: https://coco-022.github.io/osmos-feed_test/cache.json
 sources:
-  - href: https://kabigon-unite.com/feed
-  - href: https://pokemon.game-chan.net/feed
-  - href: https://pokemon.gamerstand.net/feed
-  - href: http://pokemonunite.blog.jp/index.rdf
+  - href: http://blog.esuteru.com/index.rdf #はちま
+  - href: http://blog.esuteru.com/index.rdf #俺的
